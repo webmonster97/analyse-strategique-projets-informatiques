@@ -1,4 +1,4 @@
-# Modèle de document pour Ateliers de cadrage
+# Modèle de document pour ateliers de cadrage
 
 ## Informations générales
 | Information | Détail |
