@@ -1,6 +1,6 @@
 # Modèle de document pour Ateliers de cadrage
 
-## Informations Générales
+## Informations générales
 | Information | Détail |
 |------------|---------|
 | Date de l'atelier | |
@@ -8,26 +8,26 @@
 | Participants | |
 | Animateur | |
 
-## Vision du Client
+## Vision du client
 
-### Contexte Business
+### Contexte business
 - Situation actuelle :
 - Problématiques rencontrées :
 - Opportunités identifiées :
 
-### Objectifs Principaux
+### Objectifs principaux
 - Court terme :
 - Moyen terme :
 - Long terme :
 
-## Objectifs Stratégiques
+## Objectifs stratégiques
 
 | Objectif | Description | Priorité (1-5) | Échéance |
 |----------|-------------|----------------|-----------|
 | | | | |
 | | | | |
 
-## Objectifs Opérationnels
+## Objectifs opérationnels
 
 | Objectif | Mesure | Cible | Délai |
 |----------|---------|--------|-------|
@@ -42,16 +42,15 @@
 | | | | |
 | | | | |
 
-### Besoins Utilisateurs
-```markdown
-#### Personas Identifiés
+## Besoins Utilisateurs
+
+### Personas Identifiés
 - Nom :
 - Rôle :
 - Besoins principaux :
 - Points de friction :
 
-#### Use Cases Prioritaires
+### Use Cases Prioritaires
 1. 
 2. 
 3. 
-```
