@@ -2,16 +2,69 @@
 
 Etude pour Webmonster Factory
 
-La différenciation entre projets existants et nouveaux projets est cruciale pour établir une méthodologie d'analyse adaptée.
+## Projets existants (Refonte/Évolution)
 
-### Projets existants (Refonte/Évolution)
+### Phase d'audit initial
 
-**Phase d'audit initial**
-- Analyse de l'existant technique et fonctionnel
-- Évaluation des performances actuelles
-- Identification des points de friction utilisateurs
-- Audit de sécurité et conformité RGPD
-- Analyse de la dette technique
+#### Analyse de l'existant technique et fonctionnel
+
+##### Architecture Technique
+
+- Cartographie complète de l'infrastructure
+- Analyse des langages et frameworks utilisés
+- Évaluation des dépendances et versions
+- Étude de l'architecture de base de données
+- Analyse du système de versioning et déploiement
+
+#### Fonctionnalités
+
+- Inventaire exhaustif des fonctionnalités existantes
+- Documentation des processus métier
+- Analyse des flux de données
+- Cartographie des intégrations tierces
+- Évaluation de la couverture fonctionnelle
+
+#### Évaluation des performances actuelles
+
+##### Métriques Techniques
+
+- Temps de réponse des requêtes
+- Charge serveur et utilisation des ressources
+- Temps de chargement des pages
+- Performance des requêtes SQL
+- Analyse des goulots d'étranglement
+
+##### Outils de Monitoring
+
+- Mise en place d'outils d'analyse (New Relic)
+- Suivi des métriques sur période significative
+- Analyse des logs d'erreurs
+- Évaluation de la scalabilité
+
+#### Identification des points de friction utilisateurs
+
+##### Analyse Comportementale
+
+- Études des parcours utilisateurs
+- Heat maps de navigation
+- Analyse des taux de rebond
+- Enquêtes de satisfaction
+- Sessions de test utilisateurs enregistrées
+
+##### Collecte de Données
+
+- Analytics des comportements utilisateurs
+- Analyse des retours support client
+- Étude des abandons de parcours
+- Évaluation de l'accessibilité
+
+
+#### Audit de sécurité et conformité RGPD
+
+#### Analyse de la dette technique
+
+
+
 
 **Stratégie de migration**
 - Identification des données à conserver
