@@ -1,53 +1,46 @@
-# Modèle de Document pour Ateliers de Cadrage
+# Modèle de document pour Ateliers de cadrage
 
-## 1. Fiche de Collecte - Workshop Client
-
-### Informations Générales
-```markdown
+## Informations Générales
 | Information | Détail |
 |------------|---------|
 | Date de l'atelier | |
 | Durée | |
 | Participants | |
 | Animateur | |
-```
 
-### Vision du Client
-```markdown
-#### Contexte Business
+## Vision du Client
+
+### Contexte Business
 - Situation actuelle :
 - Problématiques rencontrées :
 - Opportunités identifiées :
 
-#### Objectifs Principaux
+### Objectifs Principaux
 - Court terme :
 - Moyen terme :
 - Long terme :
-```
 
-### Objectifs Stratégiques
-```markdown
+## Objectifs Stratégiques
+
 | Objectif | Description | Priorité (1-5) | Échéance |
 |----------|-------------|----------------|-----------|
 | | | | |
 | | | | |
-```
 
-### Objectifs Opérationnels
-```markdown
+## Objectifs Opérationnels
+
 | Objectif | Mesure | Cible | Délai |
 |----------|---------|--------|-------|
 | | | | |
 | | | | |
-```
 
-### KPIs
-```markdown
+
+## KPIs
+
 | Indicateur | Description | Valeur Actuelle | Valeur Cible |
 |------------|-------------|-----------------|--------------|
 | | | | |
 | | | | |
-```
 
 ### Besoins Utilisateurs
 ```markdown
