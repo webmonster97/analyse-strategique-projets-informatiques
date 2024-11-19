@@ -1,66 +1,76 @@
 # Nouveaux projets
 
-**Phase de discovery**
-- Ateliers de cadrage avec le client
-- Définition des objectifs business
-- Identification des contraintes techniques et fonctionnelles
-- Étude de marché et benchmark concurrentiel
+## Phase 1 : Étude et Analyse Initiale
 
-## Organisation du workflow
+**Ateliers de cadrage**
+- Organisation de workshops avec le client pour comprendre sa vision
+- Identification des objectifs stratégiques et opérationnels
+- Définition des indicateurs de performance (KPIs)
+- Analyse des besoins utilisateurs
 
-**Structure de l'équipe**
-- Chef de projet : Coordination et planification
-- Développeurs Back-end : Architecture technique et API
-- Développeurs Front-end : Interfaces et expérience utilisateur
-- Designers : UI/UX et identité visuelle
+**Étude de marché**
+- Analyse concurrentielle approfondie
+- Identification des tendances du secteur
+- Évaluation des solutions existantes
+- Positionnement stratégique du projet
 
-**Méthodologie agile**
-- Sprints de 2 semaines
-- Daily meetings de 15 minutes
+## Phase 2 : Structuration des données
+
+**Architecture de l'information**
+- Cartographie des flux de données
+- Modélisation de la base de données
+- Définition des interactions système
+- Identification des points d'intégration
+
+## Phase 3 : Conception UX/UI
+
+**Design Thinking**
+- Création des personas
+- Cartographie des parcours utilisateurs
+- Élaboration des wireframes
+- Tests utilisateurs préliminaires
+
+**Prototypage**
+- Maquettes interactives
+- Tests d'ergonomie
+- Validation des parcours
+- Ajustements itératifs
+
+## Phase 4 : Documentation technique
+
+**Cahier des charges**
+- Spécifications fonctionnelles détaillées
+- Contraintes techniques
+- Planning de réalisation
+- Budget prévisionnel
+
+## Phase 5 : Développement agile
+
+**Organisation des sprints**
+- Découpage en sprints de 2 semaines
+- Daily meetings quotidiens
 - Revues de sprint bi-mensuelles
 - Rétrospectives d'équipe
 
-## Phases de développement
+**Cycle de développement**
+- Développement itératif
+- Tests continus
+- Intégration continue
+- Déploiement progressif
 
-**1. Phase de conception**
-- Workshop de design thinking
-- Création des wireframes
-- Prototypage interactif
-- Tests utilisateurs préliminaires
+## Phase 6 : Tests et validation
 
-**2. Phase de développement**
-- Architecture technique détaillée
-- Développement itératif par MVP
-- Tests unitaires et d'intégration
-- Revues de code systématiques
-
-**3. Phase de test**
+**Plan de test**
 - Tests fonctionnels
 - Tests de performance
 - Tests de sécurité
 - Tests d'acceptation utilisateur
 
-## Livrables attendus
+## Matrice de priorisation
 
-**Documentation technique**
-- Spécifications fonctionnelles
-- Documentation API
-- Guide de déploiement
-- Manuel utilisateur
-
-**Éléments de suivi**
-- Tableau de bord Agile
-- Rapports d'avancement hebdomadaires
-- Métriques de performance
-- Indicateurs de qualité
-
-## Priorisation des projets
-
-La priorisation s'effectue selon la matrice suivante :
-
-| Critère | Pondération |
-|---------|-------------|
-| Valeur Business | 40% |
-| Complexité Technique | 30% |
-| Ressources Requises | 20% |
-| Risques | 10% |
+| Critère | Impact | Complexité | Priorité |
+|---------|---------|------------|----------|
+| Valeur Business | 40% | Haute | P1 |
+| Faisabilité Technique | 30% | Moyenne | P2 |
+| Ressources | 20% | Basse | P3 |
+| Risques | 10% | Variable | P4 |
