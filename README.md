@@ -4,7 +4,7 @@
 
 ## Projets existants (Refonte/Évolution)
 
-### Analyse de l'existant technique et fonctionnel
+### 1. Analyse de l'existant technique et fonctionnel
 
 #### Architecture technique
 
@@ -22,7 +22,7 @@
 - Cartographie des intégrations tierces
 - Évaluation de la couverture fonctionnelle
 
-### Évaluation des performances actuelles
+### 2. Évaluation des performances actuelles
 
 #### Métriques techniques
 
@@ -39,7 +39,7 @@
 - Analyse des logs d'erreurs
 - Évaluation de la scalabilité
 
-### Identification des points de friction utilisateurs
+### 3. Identification des points de friction utilisateurs
 
 #### Analyse comportementale
 
@@ -56,7 +56,7 @@
 - Étude des abandons de parcours
 - Évaluation de l'accessibilité
 
-### Audit de sécurité et conformité RGPD
+### 4. Audit de sécurité et conformité RGPD
 
 #### Sécurité technique
 
@@ -74,7 +74,7 @@
 + Évaluation des sous-traitants
 + Documentation des traitements
 
-### Analyse de la dette technique
+### 5. Analyse de la dette technique
 
 #### Code et architecture
 
