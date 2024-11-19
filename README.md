@@ -1,6 +1,6 @@
 # Analyse stratégique des projets informatiques
 
-Etude pour Webmonster Factory
+> Etude pour Webmonster Factory
 
 ## Projets existants (Refonte/Évolution)
 
@@ -8,13 +8,13 @@ Etude pour Webmonster Factory
 
 #### Analyse de l'existant technique et fonctionnel
 
-##### Architecture Technique
+##### Architecture technique
 
-- Cartographie complète de l'infrastructure
-- Analyse des langages et frameworks utilisés
-- Évaluation des dépendances et versions
-- Étude de l'architecture de base de données
-- Analyse du système de versioning et déploiement
++ Cartographie complète de l'infrastructure
++ Analyse des langages et frameworks utilisés
++ Évaluation des dépendances et versions
++ Étude de l'architecture de base de données
++ Analyse du système de versioning et déploiement
 
 #### Fonctionnalités
 
@@ -26,7 +26,7 @@ Etude pour Webmonster Factory
 
 #### Évaluation des performances actuelles
 
-##### Métriques Techniques
+##### Métriques techniques
 
 - Temps de réponse des requêtes
 - Charge serveur et utilisation des ressources
@@ -34,7 +34,7 @@ Etude pour Webmonster Factory
 - Performance des requêtes SQL
 - Analyse des goulots d'étranglement
 
-##### Outils de Monitoring
+##### Outils de monitoring
 
 - Mise en place d'outils d'analyse (New Relic)
 - Suivi des métriques sur période significative
@@ -43,7 +43,7 @@ Etude pour Webmonster Factory
 
 #### Identification des points de friction utilisateurs
 
-##### Analyse Comportementale
+##### Analyse comportementale
 
 - Études des parcours utilisateurs
 - Heat maps de navigation
@@ -51,7 +51,7 @@ Etude pour Webmonster Factory
 - Enquêtes de satisfaction
 - Sessions de test utilisateurs enregistrées
 
-##### Collecte de Données
+##### Collecte de données
 
 - Analytics des comportements utilisateurs
 - Analyse des retours support client
@@ -61,9 +61,39 @@ Etude pour Webmonster Factory
 
 #### Audit de sécurité et conformité RGPD
 
+##### Sécurité technique
+
++ Tests de pénétration
++ Analyse des vulnérabilités
++ Évaluation des protocoles d'authentification
++ Vérification des certificats SSL
++ Audit des accès et permissions
+
+##### Conformité RGPD
+
++ Cartographie des données personnelles
++ Vérification des consentements
++ Analyse des processus de suppression
++ Évaluation des sous-traitants
++ Documentation des traitements
+
 #### Analyse de la dette technique
 
+##### Code et architecture
 
++ Analyse de la qualité du code (SonarQube)
++ Évaluation de la couverture de tests
++ Identification des patterns obsolètes
++ Analyse des duplications de code
++ Évaluation de la maintenabilité
+
+##### Documentation et processus
+
++ État de la documentation technique
++ Processus de déploiement
++ Gestion des environnements
++ Pratiques de développement
++ Processus de revue de code
 
 
 **Stratégie de migration**
