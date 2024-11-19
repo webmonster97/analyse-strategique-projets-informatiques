@@ -31,7 +31,7 @@
 - Tests utilisateurs préliminaires
 
 **Prototypage**
-- Maquettes interactives
+- Maquettes interactives (Figma)
 - Tests d'ergonomie
 - Validation des parcours
 - Ajustements itératifs
