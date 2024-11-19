@@ -1,6 +1,6 @@
 # Nouveaux projets
 
-## Phase 1 : Étude et Analyse Initiale
+## Phase 1 : Étude et analyse initiale
 
 **Ateliers de cadrage**
 - Organisation de workshops avec le client pour comprendre sa vision
