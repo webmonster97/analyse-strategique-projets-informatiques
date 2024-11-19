@@ -4,11 +4,9 @@
 
 ## Projets existants (Refonte/Évolution)
 
-### Phase d'audit initial
+### Analyse de l'existant technique et fonctionnel
 
-#### Analyse de l'existant technique et fonctionnel
-
-##### Architecture technique
+#### Architecture technique
 
 + Cartographie complète de l'infrastructure
 + Analyse des langages et frameworks utilisés
@@ -24,9 +22,9 @@
 - Cartographie des intégrations tierces
 - Évaluation de la couverture fonctionnelle
 
-#### Évaluation des performances actuelles
+### Évaluation des performances actuelles
 
-##### Métriques techniques
+#### Métriques techniques
 
 - Temps de réponse des requêtes
 - Charge serveur et utilisation des ressources
@@ -34,16 +32,16 @@
 - Performance des requêtes SQL
 - Analyse des goulots d'étranglement
 
-##### Outils de monitoring
+#### Outils de monitoring
 
 - Mise en place d'outils d'analyse (New Relic)
 - Suivi des métriques sur période significative
 - Analyse des logs d'erreurs
 - Évaluation de la scalabilité
 
-#### Identification des points de friction utilisateurs
+### Identification des points de friction utilisateurs
 
-##### Analyse comportementale
+#### Analyse comportementale
 
 - Études des parcours utilisateurs
 - Heat maps de navigation
@@ -51,17 +49,16 @@
 - Enquêtes de satisfaction
 - Sessions de test utilisateurs enregistrées
 
-##### Collecte de données
+#### Collecte de données
 
 - Analytics des comportements utilisateurs
 - Analyse des retours support client
 - Étude des abandons de parcours
 - Évaluation de l'accessibilité
 
+### Audit de sécurité et conformité RGPD
 
-#### Audit de sécurité et conformité RGPD
-
-##### Sécurité technique
+#### Sécurité technique
 
 + Tests de pénétration
 + Analyse des vulnérabilités
@@ -69,7 +66,7 @@
 + Vérification des certificats SSL
 + Audit des accès et permissions
 
-##### Conformité RGPD
+#### Conformité RGPD
 
 + Cartographie des données personnelles
 + Vérification des consentements
@@ -77,9 +74,9 @@
 + Évaluation des sous-traitants
 + Documentation des traitements
 
-#### Analyse de la dette technique
+### Analyse de la dette technique
 
-##### Code et architecture
+#### Code et architecture
 
 + Analyse de la qualité du code (SonarQube)
 + Évaluation de la couverture de tests
@@ -87,7 +84,7 @@
 + Analyse des duplications de code
 + Évaluation de la maintenabilité
 
-##### Documentation et processus
+#### Documentation et processus
 
 + État de la documentation technique
 + Processus de déploiement
