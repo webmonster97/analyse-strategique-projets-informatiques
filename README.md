@@ -2,103 +2,12 @@
 
 > Etude pour Webmonster Factory
 
-## Projets existants (Refonte/Évolution)
-
-### 1. Analyse de l'existant technique et fonctionnel
-
-#### Architecture technique
-
-+ Cartographie complète de l'infrastructure
-+ Analyse des langages et frameworks utilisés
-+ Évaluation des dépendances et versions
-+ Étude de l'architecture de base de données
-+ Analyse du système de versioning et déploiement
-
-#### Fonctionnalités
-
-- Inventaire exhaustif des fonctionnalités existantes
-- Documentation des processus métier
-- Analyse des flux de données
-- Cartographie des intégrations tierces
-- Évaluation de la couverture fonctionnelle
-
-### 2. Évaluation des performances actuelles
-
-#### Métriques techniques
-
-- Temps de réponse des requêtes
-- Charge serveur et utilisation des ressources
-- Temps de chargement des pages
-- Performance des requêtes SQL
-- Analyse des goulots d'étranglement
-
-#### Outils de monitoring
-
-- Mise en place d'outils d'analyse (New Relic)
-- Suivi des métriques sur période significative
-- Analyse des logs d'erreurs
-- Évaluation de la scalabilité
-
-### 3. Identification des points de friction utilisateurs
-
-#### Analyse comportementale
-
-- Études des parcours utilisateurs
-- Heat maps de navigation
-- Analyse des taux de rebond
-- Enquêtes de satisfaction
-- Sessions de test utilisateurs enregistrées
-
-#### Collecte de données
-
-- Analytics des comportements utilisateurs
-- Analyse des retours support client
-- Étude des abandons de parcours
-- Évaluation de l'accessibilité
-
-### 4. Audit de sécurité et conformité RGPD
-
-#### Sécurité technique
-
-+ Tests de pénétration
-+ Analyse des vulnérabilités
-+ Évaluation des protocoles d'authentification
-+ Vérification des certificats SSL
-+ Audit des accès et permissions
-
-#### Conformité RGPD
-
-+ Cartographie des données personnelles
-+ Vérification des consentements
-+ Analyse des processus de suppression
-+ Évaluation des sous-traitants
-+ Documentation des traitements
-
-### 5. Analyse de la dette technique
-
-#### Code et architecture
-
-+ Analyse de la qualité du code (SonarQube)
-+ Évaluation de la couverture de tests
-+ Identification des patterns obsolètes
-+ Analyse des duplications de code
-+ Évaluation de la maintenabilité
-
-#### Documentation et processus
-
-+ État de la documentation technique
-+ Processus de déploiement
-+ Gestion des environnements
-+ Pratiques de développement
-+ Processus de revue de code
+## [Projets existants (Refonte/Évolution)](projets-existants.md)
+## [Nouveaux projets](nouveau-projet.md)
 
 
-**Stratégie de migration**
-- Identification des données à conserver
-- Plan de migration progressif
-- Stratégie de cohabitation temporaire entre ancien et nouveau système
 
-### Nouveaux rojets
+### Nouveaux projets
 
 **Phase de discovery**
 - Ateliers de cadrage avec le client
