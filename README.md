@@ -6,8 +6,4 @@
 ## [Nouveaux projets](nouveau-projet.md)
 
 
-> Date : 19/11/2024
-
-> Version 1.0.0
-
-> Rédacteurs : 
+> Date : 19/11/2024 - Version 1.0.0 - Rédacteurs : 
