@@ -9,6 +9,7 @@
 - Analyse des besoins utilisateurs
 
 [Modele de fiche de collecte](workshop-client.md)
+
 [Modèle de note de cadrage](note-cadrage.md)
 
 **Étude de marché**
