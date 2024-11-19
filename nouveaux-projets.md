@@ -8,7 +8,8 @@
 - Définition des indicateurs de performance (KPIs)
 - Analyse des besoins utilisateurs
 
-[Voir le modele de fiche de collecte](workshop-client.md)
+[Modele de fiche de collecte](workshop-client.md)
+[Modèle de note de cadrage](note-cadrage.md)
 
 **Étude de marché**
 - Analyse concurrentielle approfondie
