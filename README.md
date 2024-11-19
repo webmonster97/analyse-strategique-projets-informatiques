@@ -1,4 +1,6 @@
-## Analyse Stratégique des Projets Informatiques
+# Analyse Stratégique des Projets Informatiques
+
+Etude pour Webmonster Factory
 
 La différenciation entre projets existants et nouveaux projets est cruciale pour établir une méthodologie d'analyse adaptée.
 
