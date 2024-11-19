@@ -87,17 +87,18 @@
 | Plan d'Action | Priorisation des corrections | Chef de projet |
 | Estimation Budgétaire | Coûts de remédiation | Direction |
 
+
 ## Stratégie détaillée de migration des données
 
 ### Identification des données à conserver
 
-**Analyse Qualitative**
+**Analyse qualitative**
 - Évaluation de la pertinence des données existantes
 - Classification par ordre de priorité et criticité
 - Identification des données obsolètes ou redondantes
 - Cartographie des relations entre les données
 
-**Critères de Sélection**
+**Critères de sélection**
 - Valeur métier des données
 - Contraintes réglementaires (RGPD)
 - Fréquence d'utilisation
@@ -115,7 +116,9 @@
 - Migration par lots successifs
 - Priorisation des données critiques
 - Tests de validation à chaque étape
-- Mécanismes de rollback en cas d'échec[1]
+- Mécanismes de rollback en cas d'échec
+
+La migration Trickle effectue le transfert de données par phases distinctes, permettant l'exécution simultanée de l'ancien et du nouveau système. Cette approche évite les temps d'arrêt et minimise les interruptions opérationnelles.
 
 ## Stratégie de cohabitation
 
