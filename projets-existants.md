@@ -1,4 +1,4 @@
-## Projets existants (Refonte/Évolution)
+## Projets existants (Refonte / évolution)
 
 ### 1. Analyse de l'existant technique et fonctionnel
 
