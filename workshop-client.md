@@ -37,10 +37,18 @@
 
 ## KPIs
 
+### KPIs Stratégiques
+
 | Indicateur | Description | Valeur Actuelle | Valeur Cible |
 |------------|-------------|-----------------|--------------|
-| | | | |
-| | | | |
+| Performance Business | Retour sur investissement (ROI) prévu | | |
+| Performance Business | Valeur ajoutée attendue pour l'entreprise | | |
+| Performance Business | Impact sur le chiffre d'affaires | | |
+| Performance Business | Taux de croissance projeté | | |
+| Objectifs Opérationnels | Pourcentage de réduction des coûts | | |
+| Objectifs Opérationnels | Taux d'amélioration de la productivité | | |
+| Objectifs Opérationnels | Délai de mise sur le marché | | |
+| Objectifs Opérationnels | Taux d'adoption prévu | | |
 
 ## Besoins Utilisateurs
 
